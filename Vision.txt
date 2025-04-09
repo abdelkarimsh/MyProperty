@@ -1,0 +1,18 @@
+For: Property buyers and real estate professionals
+
+Who: Want an easy, transparent,buy, sell, and manage property listings
+
+The: MyProperty App
+
+Is a: Web and mobile application
+
+That: Enables property owners, brokers, and real estate companies to list properties as offers,
+		which users can explore, purchase online, or request installment payment options.
+		The app also provides detailed information about each property,
+		including precise location data and financial details.
+
+Unlike: Aqari listing apps that only showcase properties without online purchasing capabilities, or Temalluk apps lacking detailed support,
+
+Our Product: Offers a full-service platform that supports the buying process, from initial exploration and direct online purchase to detailed support with clear installment payment plans.
+				We also provide professional technical support to answer user inquiries comprehensively.
+
